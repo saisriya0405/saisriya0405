@@ -1,34 +1,27 @@
 <h1 align="center">Hi 👋, I'm Sai Sriya</h1>
 
 <h3 align="center">
-Passionate MERN Stack Developer from India 🚀
+🚀 Full Stack Developer | Java Enthusiast
 </h3>
 
----
-
-## 🌱 Currently Learning
-- React.js
-- Node.js
-- Backend Development
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=500&lines=Full+Stack+Developer;Java+%7C+React+%7C+Node.js;Building+Modern+Web+Apps+🚀" />
+</p>
 
 ---
 
-## 💬 Ask Me About
-- MERN Stack
-- Java
-- Web Development
+## 👩‍💻 About Me
+
+- Learning and building Full Stack applications
+- 💬 Ask me about Java, React, Node.js
+- 📫 Reach me at: saisriya0405@gmail.com
 
 ---
 
-## 📫 Contact Me
-- Email: your-email@gmail.com
-
----
-
-## 🚀 Languages and Tools
+## 🚀 Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,mongodb,mysql,java,python,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,mysql,java,python,git,github,vscode" />
 </p>
 
 ---
@@ -37,15 +30,8 @@ Passionate MERN Stack Developer from India 🚀
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=saisriya0405&show_icons=true&theme=tokyonight" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=saisriya0405&show_icons=true&theme=tokyonight" />
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=saisriya0405&theme=tokyonight" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saisriya0405&layout=compact&theme=tokyonight" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=saisriya0405&theme=tokyonight" />
 
 </p>
-
----
-
-## ⚡ Fun Fact
-I love building websites and learning new technologies ✨
